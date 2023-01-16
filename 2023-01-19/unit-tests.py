@@ -1,3 +1,5 @@
+# Unit tests to make sure the Caesar algorithm was implemented correctly
+
 import caesar
 
 ## ENCIPHERING ##
