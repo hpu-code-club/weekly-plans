@@ -40,9 +40,8 @@ You gain temporary access to the *mysterious machine*. Use `mysterious_machine.e
 to encipher any string of your choice. Your goal is to deduce the encryption key.
 
 ## Ciphertext Only
-Given only the ciphertext, determine the plaintext. You may not use the mysterious machine. <br>
-
-Bonus: write a function that can brute force the solution without human intervention (without being read) via [letter frequency analysis](https://en.wikipedia.org/wiki/Letter_frequency)
+Given only the ciphertext, determine the plaintext. You may not use the mysterious machine. Bonus: write a function that can brute force the solution without human 
+intervention (without being read) via [letter frequency analysis](https://en.wikipedia.org/wiki/Letter_frequency)
 
 For modern ciphers this would take a long time if not be impossible, but remember that
 [*most classical ciphers can be practically computed and solved by hand*](https://en.wikipedia.org/wiki/Classical_cipher).
