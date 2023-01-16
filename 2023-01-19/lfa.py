@@ -12,12 +12,11 @@ from typing import Dict
 # common than others in the English language. 'E' being the most common. Using this fact,
 # you can statistically generate the most likely deciphered texts based on the similarity of the
 # frequency of letters in said deciphered text vs the English language.
-# 
-# 
-# Below is a mapping of each letter to their frequency in the English alphabet (out of 1.0) from
+
+
+# A mapping of each letter to their frequency in the English alphabet (out of 1.0) from
 # "Views for Multilevel Database Security," IEEE Transactions on Software 
 # Engineering 13 (2), pp. 129-140 (Feb. 1987).
-
 ENGLISH_MODEL = {
     'a':0.080, 'b':0.015, 'c':0.030, 'd':0.040, 'e':0.130, 'f':0.020, 'g':0.015,
     'h':0.060, 'i':0.065, 'j':0.005, 'k':0.005, 'l':0.035, 'm':0.030, 'n':0.070,
