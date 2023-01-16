@@ -1,5 +1,7 @@
 from typing import Dict
 
+# TODO: FINISH SKELETON
+#
 # Of course, you could just brute force all 26 possible keys of the mysterious machine
 # and read them all until you found one that made sense; but that's only possible because
 # the key space is so small. Reading all the possible deciphered texts for a key space
