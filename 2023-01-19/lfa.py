@@ -1,7 +1,5 @@
 from typing import Dict
 
-# TODO: FINISH SKELETON
-#
 # Of course, you could just brute force all 26 possible keys of the mysterious machine
 # and read them all until you found one that made sense; but that's only possible because
 # the key space is so small. Reading all the possible deciphered texts for a key space
@@ -23,3 +21,20 @@ ENGLISH_MODEL = {
     'o':0.080, 'p':0.020, 'q':0.002, 'r':0.065, 's':0.060, 't':0.090, 'u':0.030,
     'v':0.010, 'w':0.015, 'x':0.005, 'y':0.020, 'z':0.002,  
 }
+
+# Calculate the frequency of each letter in the text relative to the number
+# of letters (not characters!) in the text. Output should look ike `ENGLISH_MODEL`
+def model_letter_frequency(text: str) -> Dict[str,float]:
+    pass
+
+# Calculates the different between the frequency map of some text (`frequency_map`) and
+# the English language by summing the differences between the expected frequency in English
+# vs what is seen in the text. The smaller the difference, the closer text is to English and
+# therefore more likely to be the correct translation
+def phi(frequency_map: Dict[str,float]) -> float
+    pass
+
+# Performs a letter frequency analysis on `ciphertext`, brute-forcing all 26 possibilities
+# and returning the one with the lowest `phi` (the closest to English)
+def letter_frequency_analysis(ciphertext: str) -> str:
+    pass
