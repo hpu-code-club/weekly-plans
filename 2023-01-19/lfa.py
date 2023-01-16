@@ -31,7 +31,7 @@ def model_letter_frequency(text: str) -> Dict[str,float]:
 # the English language by summing the differences between the expected frequency in English
 # vs what is seen in the text. The smaller the difference, the closer text is to English and
 # therefore more likely to be the correct translation
-def phi(frequency_map: Dict[str,float]) -> float
+def phi(frequency_map: Dict[str,float]) -> float:
     pass
 
 # Performs a letter frequency analysis on `ciphertext`, brute-forcing all 26 possibilities
