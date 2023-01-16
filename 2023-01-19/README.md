@@ -41,7 +41,8 @@ to encipher any string of your choice. Your goal is to deduce the encryption key
 
 ## Ciphertext Only
 Given only the ciphertext, determine the plaintext. You may not use the mysterious machine. Bonus: write a function that can brute force the solution without human 
-intervention (without being read) via [letter frequency analysis](https://en.wikipedia.org/wiki/Letter_frequency)
+intervention (without being read) via [letter frequency analysis](https://en.wikipedia.org/wiki/Letter_frequency). A pre-written letter frequency table can be found in 
+`lfa.py`.
 
 For modern ciphers this would take a long time if not be impossible, but remember that
 [*most classical ciphers can be practically computed and solved by hand*](https://en.wikipedia.org/wiki/Classical_cipher).
