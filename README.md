@@ -1,8 +1,5 @@
-# weekly-plans
- A week-by-week collection of the projects and plans for the Computer Science Society.
+# Lesson Vault
+This GitHub repository acts as a collection of lessons and activities done at previous meetings.
+For convenience, the lessons are sorted by the ISO YYYY-MM-DD format (e.g. Mar. 12th 2012 would be 2012-03-12).
 
- For organizational reasons, the lessons are sorted by the ISO YYYY-MM-DD format.
-
-
- # Scratchboard
-Maybe next week to stegonography? That'd be cool
+# Upcoming Lessons - Scratchboard
