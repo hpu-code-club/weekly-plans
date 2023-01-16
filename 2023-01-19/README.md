@@ -20,7 +20,7 @@ can still crack them by taking advantage of the mathematics behind them. For exa
 the [birthday attack](https://en.wikipedia.org/wiki/Birthday_attack) can be used to generate
 a hash used as digital signature that could be used to force a signed document.
 
-In this exercise, you are given access to a cryptographic machine called the *mystery
+In this exercise, you are given access to a cryptographic machine called the *mysterious
 machine*. The mystery machine uses the caesar cipher algorithm, but you don't know what the
 encryption key (the shift amount). Despite this, you will still be able to perform four
 types of cryptoanalyic attacks on it. For each attack, write your solitions in *main.py* 
