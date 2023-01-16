@@ -27,7 +27,7 @@ ENGLISH_MODEL = {
 def model_letter_frequency(text: str) -> Dict[str,float]:
     pass
 
-# Calculates the different between the frequency map of some text (`frequency_map`) and
+# Calculates the difference between the frequency map of some text (`frequency_map`) and
 # the English language by summing the differences between the expected frequency in English
 # vs what is seen in the text. The smaller the difference, the closer text is to English and
 # therefore more likely to be the correct translation
