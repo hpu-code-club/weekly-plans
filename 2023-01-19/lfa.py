@@ -10,7 +10,13 @@ from typing import Dict
 # common than others in the English language. 'E' being the most common. Using this fact,
 # you can statistically generate the most likely deciphered texts based on the similarity of the
 # frequency of letters in said deciphered text vs the English language.
-
+#
+# Pseudocode:
+# 1. For each possible deciphered text:
+# 2.    Create a mapping of the each letter to their relative frequency in the text (like `ENGLISH_MODEL`)
+# 3.    For each character in the mapping:
+# 4.        Find the difference between the relative frequencies in the generated mapping and ENGLISH_MODEL
+# 5. Sort the deciphered texts by total difference (smaller, the closer)
 
 # A mapping of each letter to their frequency in the English alphabet (out of 1.0) from
 # "Views for Multilevel Database Security," IEEE Transactions on Software 
