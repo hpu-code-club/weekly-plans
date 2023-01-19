@@ -1,6 +1,12 @@
 # Itinerary
 - [NCL Spring 2023 Registration](https://docs.google.com/forms/d/e/1FAIpQLSdjc3wOTnuduNyPofWMO77NVzpkuonWsBsODqYz1vcOsYtuNQ/viewform?usp=sf_link)
 
+
+# Upcoming
+ - [DVWA](https://www.kali.org/tools/dvwa/)
+ - Competitions
+    - Te
+
 # Caesar and Ciphers
 Encryption is the process of using a enciphering algorithm (called a cipher) to hide the
 meaning of a message. Ciphers are two-way, there must be a way to encipher (hide) the 
