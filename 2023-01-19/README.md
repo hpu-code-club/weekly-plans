@@ -11,8 +11,6 @@
     - [PlaidCTF](https://plaidctf.com/challenge) (April 8th, 100 rating)
 - [Upcoming Conferences](https://www.northeastern.edu/graduate/blog/2019-tech-conferences/)
  - [RSA Conference](https://www.rsaconference.com/usa) (April 24-27th, CA)
- - 
-
 - SGA:
  - Draft bill for ACM accounts (treasurer, vice president, sga rep., $20/each)
 
