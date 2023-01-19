@@ -1,6 +1,9 @@
 # Itinerary
 - [NCL Spring 2023 Registration](https://docs.google.com/forms/d/e/1FAIpQLSdjc3wOTnuduNyPofWMO77NVzpkuonWsBsODqYz1vcOsYtuNQ/viewform?usp=sf_link)
- - [DVWA](https://www.kali.org/tools/dvwa/)
+ - Activities
+     - [HackTheBox](https://www.hackthebox.com/hacker/pricing)
+     - [OverTheWire](https://overthewire.org/wargames/)
+     - [DVWA](https://www.kali.org/tools/dvwa/)
  - Competitions
     - [DiceCTF](https://ctf.dicega.ng/) (Feb. 3-5th, 36 rating)
     - [PbCTF](https://ctftime.org/event/1763) (Feb. 18-20th, 36 rating)
