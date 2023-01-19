@@ -7,9 +7,9 @@
     - [hxpCTF](https://2022.ctf.link/) (Mar. 10-12th, 100 rating)
     - [PlaidCTF](https://plaidctf.com/challenge) (April 8th, 100 rating)
 - [Upcoming Conferences](https://www.northeastern.edu/graduate/blog/2019-tech-conferences/)
- - [RSA Conference](https://www.rsaconference.com/usa) (April 24-27th, CA)
- - [DefCon](https://defcon.org/) (April 11-14th, Nevada)
- - [Blackhat](https://www.blackhat.com/) (August 5-7th, Las Vegas)
+    - [RSA Conference](https://www.rsaconference.com/usa) (April 24-27th, CA)
+    - [DefCon](https://defcon.org/) (April 11-14th, Nevada)
+    - [Blackhat](https://www.blackhat.com/) (August 5-7th, Las Vegas)
 - SGA:
  - Draft bill for ACM accounts (treasurer, vice president, sga rep., $20/each)
 
