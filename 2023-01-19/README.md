@@ -1,8 +1,5 @@
 # Itinerary
 - [NCL Spring 2023 Registration](https://docs.google.com/forms/d/e/1FAIpQLSdjc3wOTnuduNyPofWMO77NVzpkuonWsBsODqYz1vcOsYtuNQ/viewform?usp=sf_link)
-
-
-# Upcoming
  - [DVWA](https://www.kali.org/tools/dvwa/)
  - Competitions
     - [DiceCTF](https://ctf.dicega.ng/) (Feb. 3-5th, 36 rating)
@@ -11,6 +8,8 @@
     - [PlaidCTF](https://plaidctf.com/challenge) (April 8th, 100 rating)
 - [Upcoming Conferences](https://www.northeastern.edu/graduate/blog/2019-tech-conferences/)
  - [RSA Conference](https://www.rsaconference.com/usa) (April 24-27th, CA)
+ - [DefCon](https://defcon.org/) (April 11-14th, Nevada)
+ - [Blackhat](https://www.blackhat.com/) (August 5-7th, Las Vegas)
 - SGA:
  - Draft bill for ACM accounts (treasurer, vice president, sga rep., $20/each)
 
