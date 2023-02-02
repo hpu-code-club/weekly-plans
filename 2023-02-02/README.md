@@ -25,3 +25,5 @@ service running on a Windows server. As always, you should first start by using 
 [determine the version of the software running on the server](https://nmap.org/book/man-version-detection.html). After identifying the service, use 
 [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) to log into the shares (there is no password). For a step-by-step tutorial, 
 to the `#walkthroughs` section of the [HPU Code Club Discord](https://discord.gg/7bD3jbDVRc).
+
+![imagen](https://user-images.githubusercontent.com/113549514/216456118-f7d33209-3cc1-4f4a-9c89-08bb7bd40e1a.png)
