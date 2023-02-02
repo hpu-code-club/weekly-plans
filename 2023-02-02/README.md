@@ -1,13 +1,14 @@
 # Weekly Plans: Feb. 2nd, 2023
 
-# National Cyber League
+# Announcements
+- National Cyber League codes will be distributed in the next few days. Once you've recieved your code, sign up at [National Cyber League - Registration](https://cyberskyline.com/events/ncl/welcome)
 
 # HackTheBox Academy
 [HackTheBox Academy](https://academy.hackthebox.com/) is the counterpart to HackTheBox labs, which we've been using over the past few weeks as hacking grounds. 
 All of the labs, espcially the starting points, are based on the modules from HackTheBox academy. Because of that, we recommend signing up at [HackTheBox Academy - Register](https://academy.hackthebox.com/register).
 Modules (groups of lessons) on Academy cost *cubes*, but every time you complete a module you'll be rewarded with cubes. Tier-0 modules refund the their cost in cubes
-on completion, so you can complete all the tier 0 modules for free. You start out with 30 cubes - enough for 3 tier-0 modules. We recommend starting with the following 
-(in order):
+on completion, so you can complete all the tier 0 modules for free. You start out with 30 cubes - enough to buy 3 tier-0 modules at once. We recommend starting with
+the following (in order):
 
 | Module | Tier/Cost | Reason |
 | ------ | ---- | ------ |
