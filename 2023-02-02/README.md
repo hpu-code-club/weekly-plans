@@ -5,6 +5,7 @@
 - [TracerFire Cyber Competition](https://www.acsac.org/2022/workshops/tracerfire/) (Feb. 17-19th) is a cybersecurity comeptition that TracerFIRE (Forensic and 
 Incident Response Exercise) holds annually. The comeptition focuses heavily on blue-team cyber (foresnics, system and network administration/security,
 reverse engineering, etc). Looking for 1 replacement
+- If you've run out of PwnBox for this month, you can follow [this tutorial](https://github.com/hpu-code-club/cybersecurity/blob/main/guides/installing-openvpn.md) to install OpenVPN.
 
 # HackTheBox Academy
 [HackTheBox Academy](https://academy.hackthebox.com/) is the counterpart to HackTheBox labs, which we've been using over the past few weeks as hacking grounds. 
