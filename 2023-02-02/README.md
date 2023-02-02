@@ -20,3 +20,6 @@ the following (in order):
 | [Linux Fundamentals](https://academy.hackthebox.com/course/preview/linux-fundamentals) | Tier 0, 10 cubes | Fundamentals of the Linux operating system |
 
 # HackTheBox Labs
+This week's starting point machine is *Dancing*. In *Dancing*, you attempt to gain access to an insecure [SMB](https://en.wikipedia.org/wiki/Server_Message_Block) 
+service. As always, you should first start by using [nmap](https://nmap.org/book/man.html#man-description) to scan the target server and [determine the version of 
+the software running on the server](https://nmap.org/book/man-version-detection.html). After identifying the service, use [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) to log into the shares without a password.
