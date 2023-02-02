@@ -17,7 +17,7 @@ the following (in order):
 | ------ | ---- | ------ |
 | [Setting Up](https://academy.hackthebox.com/course/preview/setting-up) | Tier 0, 10 cubes | Sets up the virtual machine environment and toolset |
 | [Getting Started](https://academy.hackthebox.com/course/preview/getting-started) | Tier 0, 10 cubes | Learning basic tools, walkthrough of how to exploit a machine |
-| [Linux Fundamentals](https://academy.hackthebox.com/course/preview/linux-fundamentals) | Tier 0, 10 cubes | Fundamentals of the Linux operating system |
+| [Introduction to Networking](https://academy.hackthebox.com/course/preview/introduction-to-networking) | Tier 0, 10 cubes | Basics of networking -- necessary for recon |
 
 # HackTheBox Labs
 This week's starting point machine is *Dancing*. In *Dancing*, you attempt to gain access to an unsecured [SMB](https://en.wikipedia.org/wiki/Server_Message_Block) 
