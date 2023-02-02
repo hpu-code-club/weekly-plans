@@ -26,5 +26,6 @@ service running on a Windows server. As always, you should first start by using 
 [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) to log into the shares (there is no password). For a step-by-step tutorial, 
 to the `#walkthroughs` section of the [HPU Code Club Discord](https://discord.gg/7bD3jbDVRc).
 
-![imagen](https://user-images.githubusercontent.com/113549514/216456118-f7d33209-3cc1-4f4a-9c89-08bb7bd40e1a.png)
-<img style="height: 1280; width: 720" href="https://user-images.githubusercontent.com/113549514/216456118-f7d33209-3cc1-4f4a-9c89-08bb7bd40e1a.png" />
+Like the previous two exercises, this week focuses heavily on the reconnaissance portion of the [cyber kill chain](https://www.eccouncil.org/cybersecurity-exchange/threat-intelligence/cyber-kill-chain-seven-steps-cyberattack/). Every cyber attack begins with identifying potential attack vectors. In these earlier exercises, that
+usually means running `nmap -sV IP_ADDR` to identify the version of the services running on the server. Once you've identified the vulnerable service, it's a matter of
+exploiting it. Again, these earlier exercises will have intentionally weakly or misconfigured services that allow you to log in without a password.
