@@ -2,6 +2,9 @@
 
 # Announcements
 - National Cyber League codes will be distributed in the next few days. Once you've recieved your code, sign up at [National Cyber League - Registration](https://cyberskyline.com/events/ncl/welcome)
+- [TracerFire Cyber Competition](https://www.acsac.org/2022/workshops/tracerfire/) (Feb. 17-19th) is a cybersecurity comeptition that TracerFIRE (Forensic and 
+Incident Response Exercise) holds annually. The comeptition focuses heavily on blue-team cyber (foresnics, system and network administration/security,
+reverse engineering, etc). Looking for 1 replacement
 
 # HackTheBox Academy
 [HackTheBox Academy](https://academy.hackthebox.com/) is the counterpart to HackTheBox labs, which we've been using over the past few weeks as hacking grounds. 
