@@ -27,3 +27,4 @@ service running on a Windows server. As always, you should first start by using 
 to the `#walkthroughs` section of the [HPU Code Club Discord](https://discord.gg/7bD3jbDVRc).
 
 ![imagen](https://user-images.githubusercontent.com/113549514/216456118-f7d33209-3cc1-4f4a-9c89-08bb7bd40e1a.png)
+<img style="height: 1280; width: 720" href="https://user-images.githubusercontent.com/113549514/216456118-f7d33209-3cc1-4f4a-9c89-08bb7bd40e1a.png"></img>
