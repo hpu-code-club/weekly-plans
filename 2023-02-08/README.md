@@ -23,7 +23,7 @@ numbers (10 chars), and symbols (32 chars). This means that number of possible p
 So clearly brute-force is not the best approach. Luckily, there's better ways.
 Would you wager that someone's password is more likely to be "pZU%c$7rGG3" or "qwerty123"? We know passwords are more common than others. So what if we just took a list
 of all the most common passwords and tried that? This is called a [*dictionary attack*](https://en.wikipedia.org/wiki/Dictionary_attack) and is a great way to crack
-passwords. The most common password cracking wordlist is [rockyou.txt](https://dekisoft.com/rockyou-txt-gz-password-list-download/), which is a list of ~14 million
+passwords. The most common password cracking wordlist is [rockyou.txt]([https://dekisoft.com/rockyou-txt-gz-password-list-download/](https://github.com/zacheller/rockyou)), which is a list of ~14 million
 passwords leaked from [a real life breach](https://www.computerworld.com/article/2522045/rockyou-hack-exposes-names--passwords-of-30m-accounts.html).
 
 Another good approach is called a mask attack. If you know part of someone's password, you can brute force the rest. For example, if I know someone's password is their
