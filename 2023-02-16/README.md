@@ -18,3 +18,11 @@ designed to rapidly scan large networks, although it works fine against single h
 the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet
 filters/firewalls are in use, and dozens of other characteristics. While Nmap is commonly used for security audits, many systems and network administrators find it useful 
 for routine tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime." -Nmap Docs Chapter 15, [_Nmap Reference Guide_](https://nmap.org/book/man.html#man-description)
+
+Reconnaisance is arguably one of the most important steps in the [cyber kill chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) as it 
+allows you discover attack vectors (services that could be exploited) and gain a foothold. 
+
+
+
+Although you can use Nmap without really understanding [networking protocols](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/), I highly recommend
+learning about at least [TCP](https://www.techtarget.com/searchnetworking/definition/TCP) and [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/) protocols.
