@@ -20,9 +20,6 @@ filters/firewalls are in use, and dozens of other characteristics. While Nmap is
 for routine tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime." -Nmap Docs Chapter 15, [_Nmap Reference Guide_](https://nmap.org/book/man.html#man-description)
 
 Reconnaisance is arguably one of the most important steps in the [cyber kill chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) as it 
-allows you discover attack vectors (services that could be exploited) and gain a foothold. 
-
-
-
-Although you can use Nmap without really understanding [networking protocols](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/), I highly recommend
-learning about at least [TCP](https://www.techtarget.com/searchnetworking/definition/TCP) and [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/) protocols.
+allows you discover attack vectors (services that could be exploited) and gain a foothold. To start using nmap, run `nmap TARGET_IP`. Although you can use Nmap without 
+really understanding [networking protocols](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/), I highly recommend learning about at least 
+[TCP](https://www.techtarget.com/searchnetworking/definition/TCP) and [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/) protocols.
