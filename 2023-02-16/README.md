@@ -11,3 +11,10 @@ is an essential tool for discovering attack vectors and gaining a foothold.
 - [Nmap - Port Scanning Techniques](https://nmap.org/book/man-port-scanning-techniques.html)
 - [Nmap - Scriping Engine](https://nmap.org/book/nse.html)
 - [Nmap - Detecting and Subverting Firewalls and IDSs](https://nmap.org/book/firewalls.html)
+
+# An Introduction to *Nmap*
+[_Nmap_](https://nmap.org/book/man.html#man-description), short for '_network mapper_', is "an open source tool for network exploration and security auditing. It was 
+designed to rapidly scan large networks, although it works fine against single hosts. Nmap uses raw IP packets in novel ways to determine what hosts are available on 
+the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet
+filters/firewalls are in use, and dozens of other characteristics. While Nmap is commonly used for security audits, many systems and network administrators find it useful 
+for routine tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime." -Nmap Docs Chapter 15, [_Nmap Reference Guide_](https://nmap.org/book/man.html#man-description)
