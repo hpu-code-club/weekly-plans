@@ -19,16 +19,3 @@ for routine tasks such as network inventory, managing service upgrade schedules,
 
 Although you can use Nmap without really understanding [networking protocols](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/), I highly recommend 
 learning about at least [TCP](https://www.techtarget.com/searchnetworking/definition/TCP) and [UDP](https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/) protocols.
-
-# Host Discovery
-Usually, only a small fragment of the ports
-
-# Scan Techniques
-
-# Port Specification
-
-# Version Detection
-
-# OS Detection
-
-# Examples
