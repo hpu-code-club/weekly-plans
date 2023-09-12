@@ -1,7 +1,9 @@
-# Lesson Vault
+# HPU Computer Science Society weekly plans repository
 This GitHub repository acts as a collection of lessons and activities done at previous meetings.
-For convenience, the lessons are sorted by the ISO YYYY-MM-DD format (e.g. Mar. 12th 2012 would be 2012-03-12).
+For convenience, the lessons are sorted by the ISO YYYY-MM-DD format (e.g. Mar. 12th 2012 would be 2012-03-12) and are archived as well
 
-# Upcoming Lessons - Scratchboard
-- Stegonography
-- Cross-Site Scripting with [DVWA](https://www.kali.org/tools/dvwa/)
+### Spring 2023
+Archive
+
+### Fall 2023
+This semester, we are working on creating a resume website across multiple meetings!
