@@ -1,0 +1,25 @@
+/* 
+    Makes the document body take up the whole screen (0 margins) 
+
+    `vh` and `vw` are units of measure in CSS. 1vh (viewport height) unit and
+    1vh (viewport width) unit are equal to 1% of the device's height and width
+    respectively. 1 `rem` unit is equivalent to the height and width of 1 character
+    in the current font size. It is often used for text-based spacing.
+    For is a For more information, check out the following article:
+    
+    https://www.freecodecamp.org/news/css-unit-guide/
+*/
+body, html {
+    /* Document size */
+    height: 100vh;
+    width: 95vw;
+
+    /* Margins */
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+    /* Global font and some fallbacks */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
